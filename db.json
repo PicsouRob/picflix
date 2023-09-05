@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Back End",
+      "description": "Todos los video que estoy usando para estudiar Back End ",
+      "color": "#bc6c25",
+      "securityCode": ""
+    },
+    {
+      "id": "2",
+      "name": "Mobile",
+      "description": "Contenido que vengo estudiando sobre React Native y Flutter",
+      "color": "#bc4749",
+      "securityCode": ""
+    },
+    {
+      "id": "3",
+      "name": "Infraestructura",
+      "description": "Todo lo que estoy aprendiendo sobre Docker y mucho mas",
+      "color": "#006d77",
+      "securityCode": ""
+    },
+    {
+      "id": "4",
+      "name": "Data Science",
+      "description": "Cosas de React y Python que vengo aprendiendo",
+      "color": "#772f1a",
+      "securityCode": ""
+    },
+    {
+      "id": "5",
+      "name": "Design & UX",
+      "description": "Herramientas y técnicas que estudio sobre UX y Design",
+      "color": "#ee964b",
+      "securityCode": ""
+    },
+    {
+      "id": "6",
+      "name": "Marketing Digital",
+      "description": "La forma de vender y monetizar mis ideas",
+      "color": "#007f5f",
+      "securityCode": ""
+    },
+    {
+      "id": "7",
+      "name": "Inovacion y Gestion",
+      "description": "Como mantener el equipo felíz y mucho mas",
+      "color": "#007f5f",
+      "securityCode": "thttdfdfdfdftttrt"
+    },
+    {
+      "id": "8",
+      "name": "Front End",
+      "description": "Como mantener el equipo felíz y mucho mas",
+      "color": "#007f5f",
+      "securityCode": ""
+    }
+  ],
+  "videos": [
+    {
+      "id": "6b455d84-20d4-41dc-8787-3c9acca0820b",
+      "title": "Let, var const",
+      "description": "El frontend es la parte del desarrollo web que se dedica a la parte frontal de un sitio web, en pocas palabras del diseño de un sitio web",
+      "securityCode": "uytfghfhjghghghhghh",
+      "category": "Front End",
+      "imageLink": "https://file.rendit.io/n/tASg5hVWaL1twz1a7kzk.png",
+      "videoLink": "https://file.rendit.io/n/tASg5hVWaL1twz1a7kzk.png"
+    },
+    {
+      "id": "493ad612-d013-49fa-a740-af84bb4d2b49",
+      "title": "Que es Javascript",
+      "description": "https://file.rendit.io/n/ZJdjuMJIbIG1KeAzHPu7.png",
+      "securityCode": "https://file.rendit.io/n/ZJdjuMJIbIG1KeAzHPu7.png",
+      "category": "Front End",
+      "imageLink": "https://file.rendit.io/n/ZJdjuMJIbIG1KeAzHPu7.png",
+      "videoLink": "https://file.rendit.io/n/ZJdjuMJIbIG1KeAzHPu7.png"
+    },
+    {
+      "id": "ce11b57f-b3fd-4e06-8ff1-23f28a2bbe3f",
+      "title": "Equipe front end",
+      "description": "https://file.rendit.io/n/abPVlHIoEhvQ7LLpPFoy.png",
+      "securityCode": "https://file.rendit.io/n/abPVlHIoEhvQ7LLpPFoy.png",
+      "category": "Front End",
+      "imageLink": "https://file.rendit.io/n/abPVlHIoEhvQ7LLpPFoy.png",
+      "videoLink": "https://file.rendit.io/n/abPVlHIoEhvQ7LLpPFoy.png"
+    },
+    {
+      "id": "b3e16557-bc6e-4180-a782-fed2880f8b9b",
+      "title": "Importante",
+      "description": "https://file.rendit.io/n/tASg5hVWaL1twz1a7kzk.png",
+      "securityCode": "https://file.rendit.io/n/tASg5hVWaL1twz1a7kzk.png",
+      "category": "Front End",
+      "imageLink": "https://file.rendit.io/n/tASg5hVWaL1twz1a7kzk.png",
+      "videoLink": "https://file.rendit.io/n/tASg5hVWaL1twz1a7kzk.png"
+    },
+    {
+      "id": "56205f9b-2739-4b29-9d97-0127368d14ce",
+      "title": "https://file.rendit.io/n/AxhEcOnFpI9tYyDW2gxN.png",
+      "description": "https://file.rendit.io/n/AxhEcOnFpI9tYyDW2gxN.png",
+      "securityCode": "https://file.rendit.io/n/AxhEcOnFpI9tYyDW2gxN.png",
+      "category": "Back End",
+      "imageLink": "https://file.rendit.io/n/AxhEcOnFpI9tYyDW2gxN.png",
+      "videoLink": "https://file.rendit.io/n/AxhEcOnFpI9tYyDW2gxN.png"
+    },
+    {
+      "id": "9887219d-d3f5-4a25-9288-b50d2534d8b8",
+      "title": "https://file.rendit.io/n/WLuaRvmaZ6OvZmSLlRcX.png",
+      "description": "https://file.rendit.io/n/WLuaRvmaZ6OvZmSLlRcX.png",
+      "securityCode": "https://file.rendit.io/n/WLuaRvmaZ6OvZmSLlRcX.png",
+      "category": "Back End",
+      "imageLink": "https://file.rendit.io/n/WLuaRvmaZ6OvZmSLlRcX.png",
+      "videoLink": "https://file.rendit.io/n/WLuaRvmaZ6OvZmSLlRcX.png"
+    },
+    {
+      "id": "9c094478-4e8b-4962-8e3b-ec66165a369e",
+      "title": "https://file.rendit.io/n/DArZziRa6x1hxD3y4soo.png",
+      "description": "https://file.rendit.io/n/DArZziRa6x1hxD3y4soo.png",
+      "securityCode": "https://file.rendit.io/n/DArZziRa6x1hxD3y4soo.png",
+      "category": "Back End",
+      "imageLink": "https://file.rendit.io/n/DArZziRa6x1hxD3y4soo.png",
+      "videoLink": "https://file.rendit.io/n/DArZziRa6x1hxD3y4soo.png"
+    },
+    {
+      "id": "925b8ee3-f8a7-45b5-92a9-cf38d20c0cb6",
+      "title": "https://file.rendit.io/n/DmQVZZ6u30Or2p1zmYGa.png",
+      "description": "https://file.rendit.io/n/DmQVZZ6u30Or2p1zmYGa.png",
+      "securityCode": "https://file.rendit.io/n/DmQVZZ6u30Or2p1zmYGa.png",
+      "category": "Back End",
+      "imageLink": "https://file.rendit.io/n/WLuaRvmaZ6OvZmSLlRcX.png",
+      "videoLink": "https://file.rendit.io/n/DmQVZZ6u30Or2p1zmYGa.png"
+    },
+    {
+      "id": "9cb19ee8-0fa0-48bd-929a-2f19c9dfbadf",
+      "title": "https://file.rendit.io/n/wkC8KpjWrAFrKkUbeyAa.png",
+      "description": "https://file.rendit.io/n/wkC8KpjWrAFrKkUbeyAa.png",
+      "securityCode": "https://file.rendit.io/n/wkC8KpjWrAFrKkUbeyAa.png",
+      "category": "Inovacion y Gestion",
+      "imageLink": "https://file.rendit.io/n/DArZziRa6x1hxD3y4soo.png",
+      "videoLink": "https://file.rendit.io/n/wkC8KpjWrAFrKkUbeyAa.png"
+    },
+    {
+      "id": "349f8684-cd50-4709-9d28-45892e45dfb5",
+      "title": "https://file.rendit.io/n/4MqTUDuYXL8XyGANhtej.png",
+      "description": "https://file.rendit.io/n/4MqTUDuYXL8XyGANhtej.png",
+      "securityCode": "https://file.rendit.io/n/4MqTUDuYXL8XyGANhtej.png",
+      "category": "Inovacion y Gestion",
+      "imageLink": "https://file.rendit.io/n/4MqTUDuYXL8XyGANhtej.png",
+      "videoLink": "https://file.rendit.io/n/4MqTUDuYXL8XyGANhtej.png"
+    },
+    {
+      "id": "c799dadc-2c04-4d2b-a06c-0506416cf595",
+      "title": "https://file.rendit.io/n/kAL9xgL7TsKGFdJ8gyj4.png",
+      "description": "https://file.rendit.io/n/kAL9xgL7TsKGFdJ8gyj4.png",
+      "securityCode": "https://file.rendit.io/n/kAL9xgL7TsKGFdJ8gyj4.png",
+      "category": "Inovacion y Gestion",
+      "imageLink": "https://file.rendit.io/n/kAL9xgL7TsKGFdJ8gyj4.png",
+      "videoLink": "https://file.rendit.io/n/kAL9xgL7TsKGFdJ8gyj4.png"
+    }
+  ]
+}
